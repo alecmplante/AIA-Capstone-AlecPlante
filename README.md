@@ -5,6 +5,12 @@ By Alec Plante
 
 
 
+## Using this Repo:
+Hi y'all. There are many sections to this repo, so I tried to break it down for you:
+- [Data](/Data)
+
+
+
 ## Overview:
 Life Column Records is falling behind its competitors with the number of hit songs it produces and has asked us to figure out **what makes a hit song?** It will then communicate these findings to artists and implement the suggestions. In order to provide Life Column Records insight into the plan, the steps of the process have been organized below:
 
@@ -63,6 +69,14 @@ The Billboard Hot 100 is a weekly chart that ranks the top 100 songs in the Unit
 The data used to compile the Billboard Hot 100 is collected by Nielsen SoundScan and Nielsen BDS, which track sales and airplay data from music retailers and radio stations across the United States. The data is then combined with streaming data from platforms such as YouTube, Spotify, and Apple Music to determine the ranking of each song.
 
 Billboard Hot 100 data includes information such as the **song title, artist name, peak position on the chart, and number of weeks on the chart.** The chart also includes information on the **overall performance of each song, such as its current ranking compared to the previous week and any changes in its overall performance.**
-
-## Data Exploration <a name="part3"></a>
+This data has been processed mainly in the supporting files and only requires a bit of cleaning for this project.
+## 3. Data Exploration <a name="part3"></a>
 This section shows the process of data exploration and the set up of the notebook.
+The data to explore is the data listed above, which is billboard data, spotify data, and kworb data
+
+## 4. Data Modeling and Evaluation <a name="part4"></a>
+A regression and some random forests were created to try to predict and discover information about the data
+
+
+
+
