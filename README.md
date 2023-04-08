@@ -88,6 +88,27 @@ The data to explore is the data listed above, which is billboard data, spotify d
 ## 4. Data Modeling and Evaluation <a name="part4"></a>
 A regression and some random forests were created to try to predict and discover information about the data
 
+## 5. Conclusion and Closing Thoughts <a name="part5"></a>
+While this analysis proved to be ineffective in predicting the popularity of a song, there is a lot to learn from this analysis and many ways to improve. Here are some closing thoughts:
+- A songs popularity is based on many factors outside of the content of the song itself. If Drake drops a single, no matter what the content is, its will have high popularity. The flipside of this is that many other songs could hit all the marks for a "good" song, but never gain traction because of the context and artist that the song is in.
+- Music is subjective. More dancable music performs better, which means that more regular and predicatable rhythms do well. I personally really like music with a lot of Syncopation, or irregular rhythm. I also like a lot of expiramental music, which never performs well in the popular music space. Popularity does not equate to good art.
+- The genre the music is a part of will also have a huge role in the popularity. 99% of experimental hip hop listeners can listen to "The Bends" by Earl Sweatshirt, but it will never acheive massive popularity becasue the following of that genre is low.
+
+
+
+### Routes and Ideas for Possible Improvement
+- With more resources (time and money) more can be done. A model that could've worked well, perhaps the best, is a Neural Network. But because of time constraints, I was unable to create one. Larger models which could also be more effective would need cloud resources to run (or a lot of hardware). This is unattainable for this course.
+- Furthermore, we could've created our own metrics or new metrics from the music data, leading to better input data.
+- We could've analyzed the music files directly, detecting trends in songs unseen by these features. This again would require a lot of resources
+- There is a known pipeline of TikTok streams to Spotify Streams. With access to TikTok data and more time and money, a really good correlation could be found. This was my original idea for this, but TikTok sound data was nearly impossible to find without paying for a service. There is a theory that suggests that theres a trend to make music more TikTok friendly to get more revenue. I personally belive this theory, as musical content has changed noticably in recent years.
+- Another path I would've taken if I had more time was to create a small DB system with. Below is the ERD for the database I planned. This would've helped me connect genres to songs more accurately.
+
+![image](images/erd.jpg)
+
+
+I believe that this type of analysis will become more important in the near future as social media algorythms move towards rewarding songs based on the content rather than based on the artist. Older algorythms reward creators (i.e. instagram stars with a lot of followers), while newer algorythms will reward songs that are similar to what listeners like now based on the acutal content of the song, as can be seen with TikTok that recommends videos from very small creators quite frequently. As this technology progresses, making songs similar to popular songs will give people an opportunity to reach a wider audience. 
+
+Overall, this project is interesting, and made me look at music differently. I have always found the commoditization of art to be very interesting. Artists seem to be moving away from what makes good art and closer to what will sell. I think this leads to a worse quality in art. We'll see how the landscape of music and other forms of art play out in years to come. 
 
 
 
