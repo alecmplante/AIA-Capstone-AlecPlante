@@ -103,7 +103,7 @@ While this analysis proved to be ineffective in predicting the popularity of a s
 - There is a known pipeline of TikTok streams to Spotify Streams. With access to TikTok data and more time and money, a really good correlation could be found. This was my original idea for this, but TikTok sound data was nearly impossible to find without paying for a service. There is a theory that suggests that theres a trend to make music more TikTok friendly to get more revenue. I personally belive this theory, as musical content has changed noticably in recent years.
 - Another path I would've taken if I had more time was to create a small DB system with. Below is the ERD for the database I planned. This would've helped me connect genres to songs more accurately.
 
-![image](images/erd.jpg)
+![image](images/ERD.jpg)
 
 
 I believe that this type of analysis will become more important in the near future as social media algorythms move towards rewarding songs based on the content rather than based on the artist. Older algorythms reward creators (i.e. instagram stars with a lot of followers), while newer algorythms will reward songs that are similar to what listeners like now based on the acutal content of the song, as can be seen with TikTok that recommends videos from very small creators quite frequently. As this technology progresses, making songs similar to popular songs will give people an opportunity to reach a wider audience. 
