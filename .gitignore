@@ -1,0 +1,5 @@
+#ignore all checkpoints
+.ipynb_checkpoints
+
+# ignore AccountInfo.py
+AccountInfo.py
