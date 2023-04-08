@@ -35,7 +35,7 @@ Life Column Records is falling behind its competitors with the number of hit son
 ## 1. Business Problem Definition <a name="part1"></a>
 Life Column Records is facing a significant business problem where they are falling behind their competitors in terms of producing hit songs. This problem could lead to a decrease in their market share and overall revenue. In order to address this issue, they have enlisted the help of our team to figure out what makes a hit song.
 
-This business problem is multi-faceted and involves understanding the key factors that contribute to a song becoming a hit. There are several aspects to consider when analyzing the success of a song, including its melody, lyrics, composition, production, and overall marketability. To solve this problem, we will need to conduct extensive research and analysis to identify the common traits among the top-performing songs in the industry.
+This business problem is multi-faceted and involves understanding the key factors that contribute to a song becoming a hit. There are several aspects to consider when analyzing the success of a song, including its melody, lyrics, composition, production, and overall marketability. To solve this problem, we will need to conduct extensive research and analysis to identify the common traits among the top-performing songs in the industry. This analysis can help Life Column Records Increase Revenue and gain a competitive advantage
 
 ## 2. Data Understanding <a name="part2"></a>
 
