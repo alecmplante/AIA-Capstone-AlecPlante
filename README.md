@@ -16,9 +16,9 @@ Hi y'all. There are many sections to this repo, so I tried to break it down for 
 - [Billboard Webscraping Function](/functions.py): functions I created and called in the index file to webscrape data from the Billboard Top 100 Charts
 - [Images used for the project](/images)
 
-The index file is where most of the **analysis** is done.
-The **data is stored** in the data folder
-The **data is obtained** through functions in the SpotifyAPIRequestAndCleaning, KworbScrape, and functions files
+The index file is where most of the **analysis** is done. <br>
+The **data is stored** in the data folder. <br>
+The **data is obtained** through functions in the SpotifyAPIRequestAndCleaning, KworbScrape, and functions files. <br>
 The unused code is in the unused folder. Interesting concepts and code lies in this folder, but its all unformatted. For later reference and ittertions of this project
 
 
