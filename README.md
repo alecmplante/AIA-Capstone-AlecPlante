@@ -7,7 +7,7 @@ By Alec Plante
 
 ## Using this Repo:
 Hi y'all. There are many sections to this repo, so I tried to break it down for you:
-- [Proposal](/Capstone Project Proposal Template.pdf): original proposal for the project
+- [Proposal](/<Capstone Project Proposal Template.pdf>): original proposal for the project
 - [Main Notebook](/index.ipynb)
 - [Presentation](/Presentation.pptx): final Presentation for the project.
 - [Data](/Data): data used for the project saved in CSV / TSV
