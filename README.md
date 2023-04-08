@@ -11,7 +11,7 @@ Hi y'all. There are many sections to this repo, so I tried to break it down for 
 - [Main Notebook](/index.ipynb)
 - [Presentation](/Presentation.pptx): final Presentation for the project.
 - [Data](/Data): data used for the project saved in CSV / TSV
-- [Spotify API Request and Data Cleaning] (/SpotifyAPIRequestAndCleaning.ipynb)
+- [Spotify API Request and Data Cleaning](/SpotifyAPIRequestAndCleaning.ipynb)
 - [Kworb Webscraping](/KworbScrape.ipynb): Data I scraped from Kworb, wikipedias streaming datasource 
 - [Billboard Webscraping Function](/functions.py): functions I created and called in the index file to webscrape data from the Billboard Top 100 Charts
 - [Images used for the project](/images)
